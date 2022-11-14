@@ -1,1 +1,1 @@
-These are the extra activities that I have done, in addition to data analysis.
+breast_cancer: Detecting the breast cancer rate with logistic regression.
